@@ -41,7 +41,7 @@ My main focus is on **Front-End Development**, and I'm also exploring the world 
 - **Instagram** : [@mario_prayoga46](https://www.instagram.com/mario_prayoga46/)
 - **Tiktok** : [kadekmarioprayoga](https://www.tiktok.com/@kadekmarioprayoga)
 - **LinkedIn** : [I Kadek Mario Prayoga
-](https://https://www.linkedin.com/in/i-kadek-mario-prayoga/)
+](https://https://www.linkedin.com/in/i-kadek-mario-prayoga)
 - **Website** : [kamapra.my.id](https://kamapra.my.id)
 
 ---
