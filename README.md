@@ -47,8 +47,6 @@ My main focus is on **Front-End Development**, and I'm also exploring the world 
 ---
 ## 📊 GitHub Stats
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamapra18&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamapra18&layout=compact&theme=tokyonight)
 
 ---
