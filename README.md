@@ -39,8 +39,8 @@ My main focus is on **Front-End Development**, and I'm also exploring the world 
 ## 📬 How to reach me
 
 - **Email** : [marioprayoga18@gmail.com](mailto:marioprayoga18@gmail.com)
-- **Instagram** : [@mario_prayoga46](https://www.instagram.com/mario_prayoga46/)
-- **Tiktok** : [kadekmarioprayoga](https://www.tiktok.com/@kadekmarioprayoga)
+- **Instagram** : [@Kamapra18](https://www.instagram.com/kamapra18/)
+- **Tiktok** : [Kamapra](https://www.tiktok.com/@kadekmarioprayoga)
 - **LinkedIn** : [I Kadek Mario Prayoga
 ](https://https://www.linkedin.com/in/i-kadek-mario-prayoga)
 - **Website** : [kamapra.my.id](https://kamapra.my.id)
